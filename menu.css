@@ -1,0 +1,55 @@
+.main{
+    background-color: #1b1b1b;
+}
+.head{
+    color: antiquewhite;
+    margin-top: 100px;
+
+}
+.heading{
+    color: antiquewhite;
+}
+
+.des{
+    color: antiquewhite;
+    font-size: larger;
+}
+.image{
+    width: 250px;
+    height: 350px;
+    margin-left: 30px;
+}
+.imagea{
+    width: 250px;
+    height: 350px;
+    margin-left: 30px;
+}
+.imageb{
+    width: 250px;
+    height: 350px;
+    margin-left: 30px;
+}
+.imagec{
+    width: 250px;
+    height: 350px;
+    margin-left: 30px;
+}
+.button{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    bottom: 140px;
+    left: 110px;
+    
+}
+
+.text{
+    color: antiquewhite;
+}
+.a{
+    color: blanchedalmond;
+    text-decoration: none;
+    font-size: larger;
+}
